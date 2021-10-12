@@ -28,9 +28,7 @@ driver.get(url)
 driver.get(url)
 driver.add_cookie(
     {
-        "name": "BDUSS",
-        "value": "lBzNUN1N0NGWEhMdDJxVWF-Rzlzay1IRG4xNHdMYm14OWdNT0RJflkzZDZ3M3RoRVFBQUFBJCQAAAAAAAAAAAEAAAAOSXb0RkxYX1N1bnNoaW5lAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHo2VGF6NlRhU"
-    }
+        
 )
 
 sleep(1)
