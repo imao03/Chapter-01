@@ -1,0 +1,22 @@
+2021-09-13 16:18:58,380 INFO [root] [base.py (__init__:21] - [base]正在初始化driver....
+2021-09-13 16:19:01,797 INFO [root] [page_search.py (page_search:31] - [page] page_search 搜索操作,values=语音娅姹春帘燕,那知世上有乾坤.
+2021-09-13 16:19:01,797 INFO [root] [page_search.py (page_input_text:19] - [page]正在对元素('css selector', '#kw')输入,value语音娅姹春帘燕,那知世上有乾坤.
+2021-09-13 16:19:01,797 INFO [root] [base.py (base_find_element:25] - [base]正在查找元素('css selector', '#kw'),timeout=30
+2021-09-13 16:19:01,811 INFO [root] [base.py (base_input:40] - [base]正在clear element('css selector', '#kw')
+2021-09-13 16:19:01,845 INFO [root] [base.py (base_input:42] - [base]正在 input element('css selector', '#kw'),values=语音娅姹春帘燕,那知世上有乾坤.
+2021-09-13 16:19:02,067 INFO [root] [page_search.py (page_click_search_btn:23] - [page]正在对元素('css selector', '#su')点击
+2021-09-13 16:19:02,068 INFO [root] [base.py (base_click:35] - [base]正在click element('css selector', '#su')
+2021-09-13 16:19:02,068 INFO [root] [base.py (base_find_element:25] - [base]正在查找元素('css selector', '#su'),timeout=30
+2021-09-13 16:19:04,163 INFO [root] [page_search.py (page_sc_img:27] - [page] 截图
+2021-09-13 16:19:04,164 INFO [root] [base.py (base_sc_img:46] - [base]正在 截图
+2021-09-13 16:23:38,667 INFO [root] [base.py (__init__:21] - [base]正在初始化driver....
+2021-09-13 16:23:41,955 INFO [root] [page_search.py (page_search:31] - [page] page_search 搜索操作,values=语音娅姹春帘燕,那知世上有乾坤.
+2021-09-13 16:23:41,956 INFO [root] [page_search.py (page_input_text:19] - [page]正在对元素('css selector', '#kw')输入,value语音娅姹春帘燕,那知世上有乾坤.
+2021-09-13 16:23:41,956 INFO [root] [base.py (base_find_element:25] - [base]正在查找元素('css selector', '#kw'),timeout=30
+2021-09-13 16:23:41,973 INFO [root] [base.py (base_input:40] - [base]正在clear element('css selector', '#kw')
+2021-09-13 16:23:42,009 INFO [root] [base.py (base_input:42] - [base]正在 input element('css selector', '#kw'),values=语音娅姹春帘燕,那知世上有乾坤.
+2021-09-13 16:23:42,199 INFO [root] [page_search.py (page_click_search_btn:23] - [page]正在对元素('css selector', '#su')点击
+2021-09-13 16:23:42,200 INFO [root] [base.py (base_click:35] - [base]正在click element('css selector', '#su')
+2021-09-13 16:23:42,200 INFO [root] [base.py (base_find_element:25] - [base]正在查找元素('css selector', '#su'),timeout=30
+2021-09-13 16:23:44,286 INFO [root] [page_search.py (page_sc_img:27] - [page] 截图
+2021-09-13 16:23:44,287 INFO [root] [base.py (base_sc_img:46] - [base]正在 截图

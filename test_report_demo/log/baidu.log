@@ -1,0 +1,11 @@
+2021-10-12 15:43:32,918 INFO [root] [base.py (__init__:21] - [base]正在初始化driver....
+2021-10-12 15:43:35,945 INFO [root] [page_search.py (page_search:31] - [page] page_search 搜索操作,values=语音娅姹春帘燕,那知世上有乾坤.
+2021-10-12 15:43:35,946 INFO [root] [page_search.py (page_input_text:19] - [page]正在对元素('css selector', '#kw')输入,value语音娅姹春帘燕,那知世上有乾坤.
+2021-10-12 15:43:35,946 INFO [root] [base.py (base_find_element:25] - [base]正在查找元素('css selector', '#kw'),timeout=30
+2021-10-12 15:43:35,963 INFO [root] [base.py (base_input:40] - [base]正在clear element('css selector', '#kw')
+2021-10-12 15:43:36,037 INFO [root] [base.py (base_input:42] - [base]正在 input element('css selector', '#kw'),values=语音娅姹春帘燕,那知世上有乾坤.
+2021-10-12 15:43:36,219 INFO [root] [page_search.py (page_click_search_btn:23] - [page]正在对元素('css selector', '#su')点击
+2021-10-12 15:43:36,219 INFO [root] [base.py (base_click:35] - [base]正在click element('css selector', '#su')
+2021-10-12 15:43:36,220 INFO [root] [base.py (base_find_element:25] - [base]正在查找元素('css selector', '#su'),timeout=30
+2021-10-12 15:43:38,302 INFO [root] [page_search.py (page_sc_img:27] - [page] 截图
+2021-10-12 15:43:38,302 INFO [root] [base.py (base_sc_img:46] - [base]正在 截图

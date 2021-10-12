@@ -1,0 +1,4 @@
+2021-09-02 14:31:32,427 INFO [root] [test04_log_time_handle.py (<module>:40] - info... 凯蒂~
+2021-09-02 14:31:32,428 DEBUG [root] [test04_log_time_handle.py (<module>:41] - debug...咪咪
+2021-09-02 14:31:32,428 CRITICAL [root] [test04_log_time_handle.py (<module>:42] - critical...米奇
+2021-09-02 14:31:32,428 ERROR [root] [test04_log_time_handle.py (<module>:43] - error...唐老鸭

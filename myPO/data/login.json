@@ -1,0 +1,13 @@
+{
+  "tpShop_login_001": {
+    "username": "13800001111",
+    "pwd": "123456",
+    "verify_code": "8888"
+  },
+  "tpShop_login_002": {
+    "username": "13800001111",
+    "pwd": "123456=",
+    "verify_code": "8888"
+  }
+}
+

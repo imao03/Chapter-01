@@ -1,0 +1,9 @@
+1633760528017	geckodriver	INFO	Listening on 127.0.0.1:57400
+1633760528896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jx/3bq_y0gx11gg37rh2cp75ht40000gn/T/rust_mozprofileTQK0Kj"
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1633760588845	geckodriver	INFO	Listening on 127.0.0.1:59273
+1633760588857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jx/3bq_y0gx11gg37rh2cp75ht40000gn/T/rust_mozprofile3A06k6"
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1633762790704	geckodriver	INFO	Listening on 127.0.0.1:53514
+1633762791729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/jx/3bq_y0gx11gg37rh2cp75ht40000gn/T/rust_mozprofileBRRUHN"
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
